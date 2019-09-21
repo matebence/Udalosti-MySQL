@@ -1,8 +1,6 @@
-# Aplikácia Udalosti databáza MySQL(MariaDB)
-
-
+# Udalosti - database MySQL(MariaDB)
 
 # Info
 
-Súbory slúžia na vytvorenie a naplnenie databázy pre aplikáciu Udalosti, ktorá je na adrese:<br />
+The files are used to create and populate the database for the application Udalosti:<br />
 https://github.com/matebence/Udalosti-CodeIgniter-PHP<br />
